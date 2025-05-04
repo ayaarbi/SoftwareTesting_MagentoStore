@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test changing the quantity of a product in the cart</description>
+   <name>TC_14</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bf504fe-0128-4d80-b445-5fe699f48905</testCaseGuid>
+</TestCaseEntity>

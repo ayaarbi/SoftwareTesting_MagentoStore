@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_71.00</name>
+   <tag></tag>
+   <elementGuidId>03642a59-63b0-4c4c-843c-fa321564c5c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-totals']/div/table/tbody/tr[2]/td/strong/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong > span.price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e8c203dd-ae86-4e94-82a7-56e037240cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>bfc5bad6-662a-4650-ad15-a91374e6a951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: getValue()</value>
+      <webElementGuid>e84eb3a7-9ee9-4dbe-af66-3440f1f93bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$71.00</value>
+      <webElementGuid>13ebf504-d67f-4aac-b385-83c2451c3514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-totals&quot;)/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;data table totals&quot;]/tbody[1]/tr[@class=&quot;grand totals&quot;]/td[@class=&quot;amount&quot;]/strong[1]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>86193461-3f80-4089-baff-ca06ef42b6c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-totals']/div/table/tbody/tr[2]/td/strong/span</value>
+      <webElementGuid>6ba8517d-c76c-4121-a33c-b4537458291b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Total'])[1]/following::span[1]</value>
+      <webElementGuid>771885a6-251c-49c6-a256-1132ce0a07c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$71.00'])[2]/following::span[1]</value>
+      <webElementGuid>638d2502-1a91-4555-b968-da79d78b42e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed to Checkout'])[2]/preceding::span[1]</value>
+      <webElementGuid>bc7b62b6-5906-4b61-b4eb-ba314f172c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Out with Multiple Addresses'])[1]/preceding::span[2]</value>
+      <webElementGuid>40c1b1b2-efb5-4029-b5bb-8ec8b8c8e918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/strong/span</value>
+      <webElementGuid>3baaa8dc-8b4a-4bbb-b855-be17e4387047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$71.00' or . = '$71.00')]</value>
+      <webElementGuid>8f9395a1-d0d0-48b9-875f-9b68588dd5fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

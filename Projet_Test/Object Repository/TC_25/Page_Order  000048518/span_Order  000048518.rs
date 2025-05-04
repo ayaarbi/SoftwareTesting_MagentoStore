@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order  000048518</name>
+   <tag></tag>
+   <elementGuidId>bb62fcda-77d6-4d88-8b7c-605b9f6e6d41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>84054bd7-a96f-40b8-af13-d0b24531f640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>7ae95648-33e1-496b-aa69-d802627b2722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui-id</name>
+      <type>Main</type>
+      <value>page-title-wrapper</value>
+      <webElementGuid>7faa49c4-065b-48d1-9daa-ff91fb119494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order # 000048518</value>
+      <webElementGuid>037e6d28-3aec-4b91-b8c6-93c8199648ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
+      <webElementGuid>6b5e2784-6547-4379-b8ba-4ffcc6c2b8c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
+      <webElementGuid>33bb9129-8bcb-4c66-8980-6d9c8272b237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[4]/following::span[1]</value>
+      <webElementGuid>8b724d21-0d30-46c4-b72d-07b58cfe0198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[3]/following::span[1]</value>
+      <webElementGuid>5a9714ba-fd5d-410d-bb79-987fa8785a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ee5022e-243b-44d6-b6f7-c970dceaee2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Date:'])[1]/preceding::span[2]</value>
+      <webElementGuid>bbd2e06e-9262-4222-9967-9a793806d2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>16a53ee0-1535-468f-8d47-c9c0ae2335df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Order # 000048518' or . = 'Order # 000048518')]</value>
+      <webElementGuid>12d9ea00-b0d2-41c5-9a8b-04549b1dc1c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

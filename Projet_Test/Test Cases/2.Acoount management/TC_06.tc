@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the registration of a new user with an address already in use</description>
+   <name>TC_06</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24995d4c-67f5-4d27-a507-4cf3bcdd3a2e</testCaseGuid>
+</TestCaseEntity>

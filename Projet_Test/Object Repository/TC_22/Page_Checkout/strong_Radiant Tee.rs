@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Radiant Tee</name>
+   <tag></tag>
+   <elementGuidId>e557992f-143a-43aa-b5f6-b9a750c5a422</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong.product-item-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc-sidebar']/div/div/div[2]/div/ol/li/div/div/div/div/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>3ad8c961-6277-48a1-a5e1-608ad6f9558b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item-name</value>
+      <webElementGuid>7d1757b8-3ff0-4e81-90cc-ff862461c2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>html: getNameUnsanitizedHtml($parent)</value>
+      <webElementGuid>ca5b823e-1859-49e3-a8e4-5e02f49ffa50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Radiant Tee</value>
+      <webElementGuid>db64ff63-6828-4003-885c-f3a2f3a07df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc-sidebar&quot;)/div[@class=&quot;opc-block-summary&quot;]/div[@class=&quot;block items-in-cart active&quot;]/div[@class=&quot;content minicart-items&quot;]/div[@class=&quot;minicart-items-wrapper overflowed&quot;]/ol[@class=&quot;minicart-items&quot;]/li[@class=&quot;product-item&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-item-details&quot;]/div[@class=&quot;product-item-inner&quot;]/div[@class=&quot;product-item-name-block&quot;]/strong[@class=&quot;product-item-name&quot;]</value>
+      <webElementGuid>6f5f41fe-b63f-4f04-9cef-442df83c74f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc-sidebar']/div/div/div[2]/div/ol/li/div/div/div/div/strong</value>
+      <webElementGuid>5d35a56d-4433-4f4b-a7c0-fb58076bb2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items in Cart'])[1]/following::strong[1]</value>
+      <webElementGuid>659fdd5b-b36d-49c8-ae20-601e316264c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Summary'])[1]/following::strong[2]</value>
+      <webElementGuid>ab3a8076-3a3a-402e-a019-169e2bc40acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/preceding::strong[1]</value>
+      <webElementGuid>1b18eaef-2095-465c-9661-35d0b1d22b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$22.00'])[1]/preceding::strong[1]</value>
+      <webElementGuid>b35c4a21-2551-4cd3-a4b0-1ffc0cde482e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Radiant Tee']/parent::*</value>
+      <webElementGuid>435f29ca-6a6d-4c0a-8400-b0d39a26aacd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div/strong</value>
+      <webElementGuid>14b0a3cb-2ab5-4bdc-94d8-b35b4fbdb5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Radiant Tee' or . = 'Radiant Tee')]</value>
+      <webElementGuid>bd4ff467-d1ed-4a3e-a724-218acf8887da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

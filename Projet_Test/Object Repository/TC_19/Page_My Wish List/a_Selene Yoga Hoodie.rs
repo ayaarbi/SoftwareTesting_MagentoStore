@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Selene Yoga Hoodie</name>
+   <tag></tag>
+   <elementGuidId>c56383f9-7e14-4e3a-aea2-2e69436f631f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.product-item-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item_17540']/div/strong/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67426dcb-a159-44a1-891f-5520828c14e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/selene-yoga-hoodie.html?qty=1</value>
+      <webElementGuid>1adde3b0-6065-4752-aa3d-bdcbc30d2714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Selene Yoga Hoodie</value>
+      <webElementGuid>e926b15d-fa75-424c-985d-f38608125ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item-link</value>
+      <webElementGuid>4f959fb1-a9c7-43ec-86ea-7d0b5a7d2c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Selene Yoga Hoodie    </value>
+      <webElementGuid>0a6c56fe-72d8-4f7e-8c35-dd6707b647b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item_17540&quot;)/div[@class=&quot;product-item-info&quot;]/strong[@class=&quot;product-item-name&quot;]/a[@class=&quot;product-item-link&quot;]</value>
+      <webElementGuid>7dffec3a-bb6a-464e-adc3-700e3d8f09c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item_17540']/div/strong/a</value>
+      <webElementGuid>cf7cac23-eef6-4662-8c52-1048bd4acbd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Selene Yoga Hoodie')]</value>
+      <webElementGuid>1a70a52a-6748-4a92-a02a-4991e31e1bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='per page'])[1]/following::a[2]</value>
+      <webElementGuid>9839be56-6d60-44d6-be11-4633b88b849d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/following::a[2]</value>
+      <webElementGuid>06109753-6b3b-4164-bcee-19614c2aedb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating:'])[1]/preceding::a[1]</value>
+      <webElementGuid>4078c766-0193-4d1f-930f-2b33810d0f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews'])[1]/preceding::a[1]</value>
+      <webElementGuid>93114cc9-8004-4cd0-8c0e-4f9852d5eba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selene Yoga Hoodie']/parent::*</value>
+      <webElementGuid>a0a94d07-ee79-4e89-bd05-a6c834affe54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/selene-yoga-hoodie.html?qty=1')])[2]</value>
+      <webElementGuid>bd036935-8092-44db-acfe-27631fb373af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/a</value>
+      <webElementGuid>bdcf0cfd-639e-4714-8e5b-08e0c819457e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/selene-yoga-hoodie.html?qty=1' and @title = 'Selene Yoga Hoodie' and (text() = '
+        Selene Yoga Hoodie    ' or . = '
+        Selene Yoga Hoodie    ')]</value>
+      <webElementGuid>d0f9e303-7642-4662-b6c5-d0be44c569b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

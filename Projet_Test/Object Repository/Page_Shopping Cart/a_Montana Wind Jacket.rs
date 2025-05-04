@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Montana Wind Jacket</name>
+   <tag></tag>
+   <elementGuidId>6667b907-6391-4002-9497-e0fcfaba10af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='shopping-cart-table']/tbody[2]/tr/td/div/strong/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#shopping-cart-table >> internal:text=&quot;Montana Wind Jacket&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>19e18f00-3d3e-4ea3-890c-4127c3e41235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/montana-wind-jacket.html</value>
+      <webElementGuid>80700aaf-326e-493d-8980-184232cf70a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Montana Wind Jacket</value>
+      <webElementGuid>a91500b8-ad61-45fd-9f33-560e453c862a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-table&quot;)/tbody[@class=&quot;cart item&quot;]/tr[@class=&quot;item-info&quot;]/td[@class=&quot;col item&quot;]/div[@class=&quot;product-item-details&quot;]/strong[@class=&quot;product-item-name&quot;]/a[1]</value>
+      <webElementGuid>99e9f964-317a-491f-b69e-a3acf0bf35de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shopping-cart-table']/tbody[2]/tr/td/div/strong/a</value>
+      <webElementGuid>7237bb76-47b7-4061-badc-a8b2de29e703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Montana Wind Jacket')])[2]</value>
+      <webElementGuid>4de23128-1399-4499-afdc-46c28f6b2262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/following::a[2]</value>
+      <webElementGuid>f4c7249a-ae31-4a51-839f-95677ceb72c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/following::a[3]</value>
+      <webElementGuid>75ae9316-b5fa-4865-a10f-e275916ff5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[4]/preceding::a[1]</value>
+      <webElementGuid>4679f5f1-82b7-494e-916c-468aee358b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[2]/preceding::a[1]</value>
+      <webElementGuid>f03b6d3f-7140-479f-a8e4-cc2ff5451f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/montana-wind-jacket.html')])[4]</value>
+      <webElementGuid>a37bf88b-dc2d-4180-b4d3-dce1772d0732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/tr/td/div/strong/a</value>
+      <webElementGuid>4e02f55d-2135-4f35-81e7-ef7d71cdbc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/montana-wind-jacket.html' and (text() = 'Montana Wind Jacket' or . = 'Montana Wind Jacket')]</value>
+      <webElementGuid>226b76c9-ce97-4da7-a87e-4ee0f31779a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

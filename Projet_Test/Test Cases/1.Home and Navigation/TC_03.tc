@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the search bar with a non-existent product or enter the word &quot;invalid search&quot;</description>
+   <name>TC_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95c70f5e-a277-424c-9dc6-343f1fda07ed</testCaseGuid>
+</TestCaseEntity>

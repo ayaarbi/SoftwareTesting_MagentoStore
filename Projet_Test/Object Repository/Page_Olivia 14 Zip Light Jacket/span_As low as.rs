@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_As low as</name>
+   <tag></tag>
+   <elementGuidId>497e61b3-ae46-4ff3-9c92-0fd078bfcd9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.price-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div/div[3]/div/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;As low as&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee25d689-fe09-45e8-9b68-6beb76cf40d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price-label</value>
+      <webElementGuid>12d9e335-4d0b-4cbb-8226-7542927d2e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>As low as</value>
+      <webElementGuid>026be129-16fc-452f-88ac-6c8873a53f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;product-info-main&quot;]/div[@class=&quot;product-info-price&quot;]/div[@class=&quot;price-box price-final_price&quot;]/span[@class=&quot;normal-price&quot;]/span[@class=&quot;price-container price-final_price tax weee&quot;]/span[@class=&quot;price-label&quot;]</value>
+      <webElementGuid>57d8b58f-c315-4e1b-b091-4a8c1d35ba53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div/div[3]/div/span/span/span</value>
+      <webElementGuid>ed41f519-e256-47c6-8513-4729b6d6def7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Be the first to review this product'])[1]/following::span[3]</value>
+      <webElementGuid>077ce618-d623-409e-97a0-ada4bd12402e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olivia 1/4 Zip Light Jacket'])[3]/following::span[3]</value>
+      <webElementGuid>589cbec9-504a-4c56-aff6-56485af67f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$77.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>6495a5ab-f6ef-4d76-a5c1-b456b205492e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In stock'])[1]/preceding::span[3]</value>
+      <webElementGuid>8637509d-bf66-484f-a2ef-e62767d9b52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='As low as']/parent::*</value>
+      <webElementGuid>dd6f8d39-f9b3-4b06-bf5b-e9feaf0a13d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>1f608598-8035-40b5-b2a0-3dab7de57006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'As low as' or . = 'As low as')]</value>
+      <webElementGuid>0ba4c644-bcb7-4488-adf1-1dbd50c84424</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

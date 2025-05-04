@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Iris Workout Top</name>
+   <tag></tag>
+   <elementGuidId>bb9e02cd-4941-47aa-91a2-339692946399</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc-sidebar']/div/div/div[2]/div/ol/li[2]/div/div/div/div/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>c7cf1e72-1dd6-4e75-8c8d-5754224acbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item-name</value>
+      <webElementGuid>c54d647e-2687-4f96-b12b-7ace72b33bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>html: getNameUnsanitizedHtml($parent)</value>
+      <webElementGuid>ab12d3fe-b152-4597-94c4-fb109aced83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iris Workout Top</value>
+      <webElementGuid>44094824-1421-46b4-8fd0-41165b484879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc-sidebar&quot;)/div[@class=&quot;opc-block-summary&quot;]/div[@class=&quot;block items-in-cart active&quot;]/div[@class=&quot;content minicart-items&quot;]/div[@class=&quot;minicart-items-wrapper overflowed&quot;]/ol[@class=&quot;minicart-items&quot;]/li[@class=&quot;product-item&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-item-details&quot;]/div[@class=&quot;product-item-inner&quot;]/div[@class=&quot;product-item-name-block&quot;]/strong[@class=&quot;product-item-name&quot;]</value>
+      <webElementGuid>6b4a2fa0-20a8-4cc7-bcc1-0b33bba374bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc-sidebar']/div/div/div[2]/div/ol/li[2]/div/div/div/div/strong</value>
+      <webElementGuid>9ff898d0-d2e1-4b11-8c96-50acfa2b6fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue'])[1]/following::strong[1]</value>
+      <webElementGuid>c203ae97-9103-461d-8337-b5a32921482c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::strong[1]</value>
+      <webElementGuid>34386fc0-6b2f-48ce-9ec2-a650033bbd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[2]/preceding::strong[1]</value>
+      <webElementGuid>af3cb284-7fa8-4262-87b9-dab1a6217dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.00'])[1]/preceding::strong[1]</value>
+      <webElementGuid>7fded85f-31b7-4ad5-b687-6ec0eed54ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iris Workout Top']/parent::*</value>
+      <webElementGuid>5a38d677-ef32-48b8-831e-06477d2c74e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/div/strong</value>
+      <webElementGuid>d3b8572e-4c20-48c5-b279-16950064fb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Iris Workout Top' or . = 'Iris Workout Top')]</value>
+      <webElementGuid>5ed9528d-9f8f-4c51-9441-2738bc879b86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

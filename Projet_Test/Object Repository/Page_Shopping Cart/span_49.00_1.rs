@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_49.00_1</name>
+   <tag></tag>
+   <elementGuidId>22f302b4-5643-474b-8e88-1e21c1a0cb6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='shopping-cart-table']/tbody[2]/tr/td[4]/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;$49.00&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab92a5ca-0d8e-4ace-a944-03fc6edda86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>75514dbe-f1f4-4f8f-9239-ca674b06718e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$49.00</value>
+      <webElementGuid>3e1e21e8-044d-42c1-9760-5d9fcdb35888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-table&quot;)/tbody[@class=&quot;cart item&quot;]/tr[@class=&quot;item-info&quot;]/td[@class=&quot;col subtotal&quot;]/span[@class=&quot;price-excluding-tax&quot;]/span[@class=&quot;cart-price&quot;]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>686ae9da-c1a6-4c89-bb4c-576aa50cbf02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shopping-cart-table']/tbody[2]/tr/td[4]/span/span/span</value>
+      <webElementGuid>0954a55b-fb48-44d4-af43-63be27e46a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[5]/following::span[3]</value>
+      <webElementGuid>a71a43c7-55b8-4bad-8972-fb4d6f1581dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.00'])[2]/following::span[4]</value>
+      <webElementGuid>9f22599b-076c-4a88-925d-d1e73cbdecce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[4]/preceding::span[1]</value>
+      <webElementGuid>8213b015-914a-4b5c-9829-bcde2a8f051f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[2]/preceding::span[2]</value>
+      <webElementGuid>5ff86ca5-7beb-4846-865f-eae8f91708ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/tr/td[4]/span/span/span</value>
+      <webElementGuid>9c368daf-d226-4353-905d-a5ad6211e11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$49.00' or . = '$49.00')]</value>
+      <webElementGuid>b2ba2208-1d11-4919-895d-ecfaa803710f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

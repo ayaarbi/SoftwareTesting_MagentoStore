@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check for order history</description>
+   <name>TC_24</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c779495-4e8b-4dec-bc58-d94521861b6a</testCaseGuid>
+</TestCaseEntity>

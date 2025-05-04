@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the comparison list between products</description>
+   <name>TC_20</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dffedfc5-6ead-46ac-86d3-1a606354cf22</testCaseGuid>
+</TestCaseEntity>

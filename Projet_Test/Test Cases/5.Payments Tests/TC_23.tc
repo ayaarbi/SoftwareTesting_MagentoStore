@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the payment form with invalid information</description>
+   <name>TC_23</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7af44c7-bf8f-4c32-8aae-bcd8f98148b1</testCaseGuid>
+</TestCaseEntity>

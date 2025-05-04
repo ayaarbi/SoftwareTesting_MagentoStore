@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check a message appeared when the cart is empty</description>
+   <name>TC_15</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca4335a5-93de-4fea-b308-a5f682254e8d</testCaseGuid>
+</TestCaseEntity>

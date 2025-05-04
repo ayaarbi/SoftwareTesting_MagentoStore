@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_000048518</name>
+   <tag></tag>
+   <elementGuidId>b7e7c1b3-681e-442a-9c1c-4e5ccc9ffdb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.col.id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='my-orders-table']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>55e41e7c-13f7-4993-98ad-407014cd2760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-th</name>
+      <type>Main</type>
+      <value>Order #</value>
+      <webElementGuid>f2896013-1034-4f7d-a38f-0e61a4eee600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col id</value>
+      <webElementGuid>07ff805f-344d-4032-abd0-9fcb84cec930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>000048518</value>
+      <webElementGuid>f8896996-ceb9-4c6a-8ae4-74627a2f0979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-orders-table&quot;)/tbody[1]/tr[1]/td[@class=&quot;col id&quot;]</value>
+      <webElementGuid>b6ba4e82-f222-45c8-8a0d-af551c706b02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='my-orders-table']/tbody/tr/td</value>
+      <webElementGuid>251a826d-fc06-4552-9b60-b24386a484d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[1]</value>
+      <webElementGuid>aa0db964-c0d6-44b8-a4af-47da0a4143be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[1]</value>
+      <webElementGuid>d1f9c5f8-1196-4d7e-be12-09f144168135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a a'])[1]/preceding::td[2]</value>
+      <webElementGuid>4c119dab-c1d5-4287-ade4-42873def4be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$66.00'])[1]/preceding::td[3]</value>
+      <webElementGuid>eca0be19-709f-499a-85f5-c1b0d0dad0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='000048518']/parent::*</value>
+      <webElementGuid>b18a521f-eb12-4914-a0d3-a0b3d6bb9058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>eaceccba-1d65-4f9d-a86b-1965edf31d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '000048518' or . = '000048518')]</value>
+      <webElementGuid>cebcc91e-e6a7-43f7-8dd3-12a7fe5cce5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

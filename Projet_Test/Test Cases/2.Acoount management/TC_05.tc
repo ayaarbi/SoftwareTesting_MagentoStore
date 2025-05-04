@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test new user registration with valid data</description>
+   <name>TC_05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ffe811eb-b880-4ef8-81d1-78f4dde1b6b7</testCaseGuid>
+</TestCaseEntity>

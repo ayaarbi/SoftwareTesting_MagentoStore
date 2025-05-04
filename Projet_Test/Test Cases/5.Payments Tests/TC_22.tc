@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the order summary display before validation</description>
+   <name>TC_22</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80b00b63-27a4-4560-9b1e-89df09e4b35a</testCaseGuid>
+</TestCaseEntity>

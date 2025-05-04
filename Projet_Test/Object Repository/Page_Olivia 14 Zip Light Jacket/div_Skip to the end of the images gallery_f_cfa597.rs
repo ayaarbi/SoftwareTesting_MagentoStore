@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Skip to the end of the images gallery_f_cfa597</name>
+   <tag></tag>
+   <elementGuidId>9ebfac69-ecb0-4cfb-b758-f3912bf110ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fotorama__arr.fotorama__arr--next > div.fotorama__arr__arr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[2]/div[2]/div[2]/div[2]/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Next&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06400c28-5b75-47f0-820b-aa4635c73e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fotorama__arr__arr</value>
+      <webElementGuid>19b2d12d-2e52-4fe6-9dc9-1c91af168ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;product media&quot;]/div[@class=&quot;gallery-placeholder&quot;]/div[@class=&quot;fotorama-item fotorama fotorama1743684185150&quot;]/div[@class=&quot;fotorama__wrap fotorama__wrap--css3 fotorama__wrap--slide fotorama__wrap--toggle-arrows&quot;]/div[@class=&quot;fotorama__stage&quot;]/div[@class=&quot;fotorama__arr fotorama__arr--next&quot;]/div[@class=&quot;fotorama__arr__arr&quot;]</value>
+      <webElementGuid>96e87deb-3377-464f-adc2-ef478906007d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[2]/div[2]/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>6ee4e263-015a-4f05-8669-8b7fe303c678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>9fbd35ad-1d4b-4aad-9d95-53a26d10bc02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

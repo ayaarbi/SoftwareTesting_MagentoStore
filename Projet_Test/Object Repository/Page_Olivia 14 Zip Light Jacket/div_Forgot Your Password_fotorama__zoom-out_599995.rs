@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Forgot Your Password_fotorama__zoom-out_599995</name>
+   <tag></tag>
+   <elementGuidId>79cdd9b2-add7-4e94-9cc4-d256ea17df97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fotorama__zoom-out.zoom-out-loaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Zoom out&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83d3dbea-0076-49e6-80f0-9d9fd8fefd35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fotorama__zoom-out zoom-out-loaded</value>
+      <webElementGuid>786805fb-5440-44c6-996e-448b4293047e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gallery-role</name>
+      <type>Main</type>
+      <value>fotorama__zoom-out</value>
+      <webElementGuid>d2f9201f-f52c-4f54-8304-f1153ecfbaa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Zoom out</value>
+      <webElementGuid>8604dc86-590d-4ae8-a36f-ea264fbc56cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d89fdd27-5b21-434b-876a-7accfd07b2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e5faeeec-e57b-49cf-bc63-2f1957e2aca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fotorama__fullscreen&quot;]/body[@class=&quot;page-product-configurable catalog-product-view product-olivia-1-4-zip-light-jacket categorypath-women-tops-women-jackets-women category-jackets-women page-layout-1column fotorama__fullscreen&quot;]/div[@class=&quot;fotorama-item fotorama fotorama1743684914483 fotorama--fullscreen&quot;]/div[@class=&quot;fotorama__wrap fotorama__wrap--css3 fotorama__wrap--slide fotorama__wrap--toggle-arrows&quot;]/div[@class=&quot;fotorama__stage&quot;]/div[@class=&quot;fotorama__zoom-out zoom-out-loaded&quot;]</value>
+      <webElementGuid>f26b1b49-fc73-4687-b074-7cfeb8a77e9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>94edf68f-b88d-4596-961f-8a80c35ddd0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

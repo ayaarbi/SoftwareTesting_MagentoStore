@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test filters and product sorting</description>
+   <name>TC_12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fba2bf53-0a89-43d7-a048-e37680a5c286</testCaseGuid>
+</TestCaseEntity>

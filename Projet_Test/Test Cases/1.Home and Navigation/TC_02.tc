@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the search bar with an existing product</description>
+   <name>TC_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f20df0af-5f89-4aa0-a9ee-93567ee47789</testCaseGuid>
+</TestCaseEntity>

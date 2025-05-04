@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_More Information</name>
+   <tag></tag>
+   <elementGuidId>d3f07fb5-c2b1-4eae-933b-f19397c44952</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-label-additional-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tab-label-additional-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;More Information &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>485eb4a4-c1b1-4491-827f-07a8d5fc1c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data switch</value>
+      <webElementGuid>ff55ca8c-fd3b-4905-be7e-2caa8a8bd8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>0a164717-b878-4855-8465-12737520aa33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>trigger</value>
+      <webElementGuid>2bd46bd7-88ce-4785-89c5-5ad84916bc32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#additional</value>
+      <webElementGuid>e9a53de1-4520-4f21-a16e-4391556e35d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tab-label-additional-title</value>
+      <webElementGuid>955f941f-93c4-49eb-b0a6-a514e5fabd00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        More Information                    </value>
+      <webElementGuid>a19ae8d3-0f23-44b7-b322-516184a3c7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-label-additional-title&quot;)</value>
+      <webElementGuid>b9a5b69d-cb0e-45c5-a523-8380c383ebf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='tab-label-additional-title']</value>
+      <webElementGuid>bfb03a3f-d8f6-4db3-b08f-fa5dd0454288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-label-additional']/a</value>
+      <webElementGuid>39327d42-90f3-4072-b803-9686cc053c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'More Information')]</value>
+      <webElementGuid>dfa09fbd-2050-4513-8b22-c7eac533d0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[1]</value>
+      <webElementGuid>4a4681bc-4464-48c6-b889-9c10d440b59f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to the beginning of the images gallery'])[1]/following::a[3]</value>
+      <webElementGuid>701fa1c1-14c1-44ec-a070-ad9a35c3f913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Information'])[2]/preceding::a[1]</value>
+      <webElementGuid>155d0f0b-71c1-4565-b5e1-8e0fdce5d2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style'])[1]/preceding::a[1]</value>
+      <webElementGuid>a9286cbc-4c30-42d0-adc5-8b2ceae85ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More Information']/parent::*</value>
+      <webElementGuid>74c22f07-28b7-4746-bf7a-fb73511281a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#additional')]</value>
+      <webElementGuid>d77794f9-9a98-43e3-9a75-c25e88180c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/a</value>
+      <webElementGuid>5a4c736a-d5f1-4bec-ab26-97c4e167e438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#additional' and @id = 'tab-label-additional-title' and (text() = '
+                        More Information                    ' or . = '
+                        More Information                    ')]</value>
+      <webElementGuid>251ecbe4-6350-42c2-a41f-ff02c3d4cbfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

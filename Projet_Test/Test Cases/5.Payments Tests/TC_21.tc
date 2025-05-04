@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the payment page loading</description>
+   <name>TC_21</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfd26c4d-4e6c-4e40-85b0-09a6a13304c0</testCaseGuid>
+</TestCaseEntity>

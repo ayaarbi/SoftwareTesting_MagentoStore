@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>3c8b26b5-3ea4-4214-b7ef-718c186cb351</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.counter-number</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a7d4392-e22a-4fac-8192-efbeb19b20c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>counter-number</value>
+      <webElementGuid>29b67a7b-34ac-48e8-9fdb-75eecd73da8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1ed55637-5d11-4aa0-a540-716998855423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-product-configurable catalog-product-view product-radiant-tee page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;minicart-wrapper&quot;]/a[@class=&quot;action showcart&quot;]/span[@class=&quot;counter qty&quot;]/span[@class=&quot;counter-number&quot;]</value>
+      <webElementGuid>0cbdc78b-f6c6-4e6b-bf9f-49bcb14ed6c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/following::span[2]</value>
+      <webElementGuid>fc451f34-7f1c-45cc-89a6-ba0fa168c79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/following::span[3]</value>
+      <webElementGuid>1744a969-3ce8-4b58-8486-2d0d5ae702ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='items'])[1]/preceding::span[1]</value>
+      <webElementGuid>ac8d2a88-c84a-4e8b-8f98-059095584455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[2]/preceding::span[3]</value>
+      <webElementGuid>eb9301c7-6ae7-45c4-9772-08698378a39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>dd97dfbd-2807-419b-9fd1-eb14d8c773f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>29b14026-1a22-4033-a40c-e6545240d687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>5e542d6b-b229-4094-bdeb-0a0a911cfe9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

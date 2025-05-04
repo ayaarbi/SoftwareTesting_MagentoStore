@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that an item is added to the wish list</description>
+   <name>TC_19</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57d426cf-ba48-49b8-b58f-12d14d7aa02e</testCaseGuid>
+</TestCaseEntity>

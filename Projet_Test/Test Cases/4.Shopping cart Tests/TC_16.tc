@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the total price calculation after adding multiple items</description>
+   <name>TC_16</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d66de23-1f64-41c4-8fe5-34d2fb63c1ba</testCaseGuid>
+</TestCaseEntity>

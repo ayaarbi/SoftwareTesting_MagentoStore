@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bags</name>
+   <tag></tag>
+   <elementGuidId>19cb525e-470e-4ccb-8ba2-68f10b87771e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.categories-menu > ul.items > li.item > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[4]/div[2]/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#maincontent ul >> internal:role=link[name=&quot;Bags&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fc5d218d-c8be-49b0-a89b-62c7ae1418e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/gear/bags.html</value>
+      <webElementGuid>8c85c853-917e-482e-bfb6-8b34836767a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bags</value>
+      <webElementGuid>17afd28d-21b8-4433-aab5-b9a5e495e869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;sidebar sidebar-main&quot;]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;categories-menu&quot;]/ul[@class=&quot;items&quot;]/li[@class=&quot;item&quot;]/a[1]</value>
+      <webElementGuid>d3ee01ec-9849-4938-94e5-b0a304463b36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[4]/div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>8554a4ee-a668-4fca-9842-fc26bcb16245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Bags')])[2]</value>
+      <webElementGuid>8c1fcb9d-a456-49ba-9b17-93131d9d6026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watches'])[2]/following::a[1]</value>
+      <webElementGuid>526093ef-437f-4a4d-8093-95ce9ae073ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitness Equipment'])[2]/following::a[2]</value>
+      <webElementGuid>f9b96442-78ad-48f0-b9bf-44ad5e2d3294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitness Equipment'])[3]/preceding::a[1]</value>
+      <webElementGuid>cf5a70be-ee9f-4b8e-92bd-d87130142db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watches'])[3]/preceding::a[2]</value>
+      <webElementGuid>bd685b62-55c8-41a2-89fd-1c1a7c84e6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/gear/bags.html')])[4]</value>
+      <webElementGuid>c5d52f9f-f786-4b2a-ab30-50cbf543cf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>8d68a5d3-a92e-4566-a130-39084a13fcc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/gear/bags.html' and (text() = 'Bags' or . = 'Bags')]</value>
+      <webElementGuid>d4ba6322-00c8-468b-87c3-9e69373150ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

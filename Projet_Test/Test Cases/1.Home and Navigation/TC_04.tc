@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check navigation between categories</description>
+   <name>TC_04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>758b0a1a-f8e4-4c3a-8264-501994860710</testCaseGuid>
+</TestCaseEntity>

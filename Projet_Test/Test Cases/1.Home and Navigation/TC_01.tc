@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the loading of the home page by verifying the existence of the site name &quot;Product Store&quot;</description>
+   <name>TC_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfca4962-3c34-4ab7-ad44-290661f08d39</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test disconnection and reconnection</description>
+   <name>TC_10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45a92a39-39eb-4ecf-ace5-4516376af4f5</testCaseGuid>
+</TestCaseEntity>

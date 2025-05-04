@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check login with a non-existent account</description>
+   <name>TC_09</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>799694b2-d233-4ce2-a82e-f819ebe70e60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order Summary</name>
+   <tag></tag>
+   <elementGuidId>fc20bd58-9af1-4a87-9c88-337e9f4850c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc-sidebar']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80966da0-d8a8-474e-9a93-12114093853d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>i18n: 'Order Summary'</value>
+      <webElementGuid>f490921e-e3f7-4cfa-8cd1-a335c850f5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>42e719a6-7df5-4282-83d1-a70ba663b5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Summary</value>
+      <webElementGuid>4d6e5d80-25f9-4d95-bc5c-ab7eb8d8d8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc-sidebar&quot;)/div[@class=&quot;opc-block-summary&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>3f1dd73b-f2fe-42fa-be75-e3ce6e8c7af8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc-sidebar']/div/span</value>
+      <webElementGuid>3a0b48c8-bbec-4898-99d6-12c0e58a0ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::span[1]</value>
+      <webElementGuid>a64e8713-cba1-4c6f-bca9-12c244ee02a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Discount'])[1]/following::span[2]</value>
+      <webElementGuid>8a51971b-72ea-436a-8478-a92e380d46c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items in Cart'])[1]/preceding::span[2]</value>
+      <webElementGuid>06edda44-55c1-4bd3-b651-bafd411d3cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Radiant Tee'])[1]/preceding::span[5]</value>
+      <webElementGuid>f71d1086-0278-494c-b428-0d68018410c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order Summary']/parent::*</value>
+      <webElementGuid>4003ed31-7b11-401d-adf0-6265513774b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>5247f637-5b5f-4301-8bae-0ee9cf516096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Order Summary' or . = 'Order Summary')]</value>
+      <webElementGuid>3842dc42-1d0e-490e-b113-f259ee5b845f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
